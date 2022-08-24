@@ -1,3 +1,4 @@
 tahapannya adalah:
 - paham html
 - paham css
+- paham javascript
