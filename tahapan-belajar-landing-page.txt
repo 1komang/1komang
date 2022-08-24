@@ -1,4 +1,6 @@
 tahapannya adalah:
 - paham html
 - paham css
+. flexbox
+. grid
 - paham javascript
