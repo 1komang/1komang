@@ -1,0 +1,3 @@
+tahapannya adalah:
+- paham html
+- paham css
